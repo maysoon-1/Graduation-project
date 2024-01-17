@@ -56,4 +56,4 @@ direct feedback Messages.
 <img src= "https://github.com/maysoon-1/Graduation-project/assets/107502613/e6c2032f-10ce-4a3f-bdbe-4ce0f92e00fe" width = "500">
 
 ### demo (Click on logo to watch the video)
-[<img src= "https://github.com/maysoon-1/Graduation-project/assets/107502613/d1a06b4d-4674-4c38-9644-6b143d1d3e1d" width = "500">](https://www.youtube.com/watch?v=Vh7x3JBNJgM)
+[<img src= "https://github.com/maysoon-1/Graduation-project/assets/107502613/d1a06b4d-4674-4c38-9644-6b143d1d3e1d" width = "300">](https://www.youtube.com/watch?v=Vh7x3JBNJgM)
