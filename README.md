@@ -1,9 +1,6 @@
 # Graduation-project
 
-(This project is not open source and its code is proprietary. The Code is 
-set to be hidden to protect intellectual property and sensitive information. 
-If you have any questions or inquiries, please contact 
-maysoontsb@gmail.com .)
+#### (This project is not open source and its code is proprietary. The Code is set to be hidden to protect intellectual property and sensitive information.If you have any questions or inquiries, please contact maysoontsb@gmail.com .) 
 
 ## ABSTRACT
 Rehabilitation programs are vital for the people that suffer injuries, The 
